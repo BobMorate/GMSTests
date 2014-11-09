@@ -46,7 +46,7 @@
     <room>rooms\rm_level</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41952.4686234954</constant>
+    <constant name="GM_build_date">41952.6724048727</constant>
     <constant name="GM_version">'100'</constant>
   </constants>
   <help>
